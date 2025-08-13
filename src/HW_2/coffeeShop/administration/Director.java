@@ -7,7 +7,7 @@ public class Director {
     @Autowired
     private Administrator administrator;
 
-    public  void CoffeeShopWork() {
+    public void coffeeShopWork() {
         administrator.reportWork();
     }
 

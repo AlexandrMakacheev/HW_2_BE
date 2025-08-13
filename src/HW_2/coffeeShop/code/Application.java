@@ -19,6 +19,6 @@ public class Application {
         Director director = new Director();
         director.setAdministrator(administrator);
 
-        director.CoffeeShopWork();
+        director.coffeeShopWork();
     }
 }

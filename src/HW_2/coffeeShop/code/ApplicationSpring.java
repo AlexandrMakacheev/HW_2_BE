@@ -13,7 +13,7 @@ public class ApplicationSpring {
 
         Director director = context.getBean(Director.class);
 
-        director.CoffeeShopWork();
+        director.coffeeShopWork();
 
     }
 }
